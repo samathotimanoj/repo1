@@ -1,3 +1,3 @@
-The git revereeeeet command is a forward-moving undo opertttttation that offers a safe method of undoing changes. 
-Instead of deletidddddddng or orphaning commigggggggggggts in the commit history, 
-a revert will create a nddddddddddew commit that inverses the changes specified.
+The git revert command is a forward-moving undo operation that offers a safe method of undoing changes. 
+Instead of deleting or orphaning commits in the commit history, 
+a revert will create a new commit that inverses the changes specified.
